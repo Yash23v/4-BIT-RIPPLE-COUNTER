@@ -94,6 +94,6 @@ endmodule
 <img width="1407" height="622" alt="Screenshot 2025-10-18 110403" src="https://github.com/user-attachments/assets/9c4e2c6d-c6d9-4701-b11c-402b9aba6c85" />
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="1920" height="1009" alt="Screenshot 2025-10-18 110555" src="https://github.com/user-attachments/assets/026c828d-c4ca-49d8-9552-cf9d6f017d6c" />
+<img width="1919" height="1022" alt="Waveform" src="https://github.com/user-attachments/assets/2718b4e0-f0c9-40e6-ab88-1a67cd156ba1" />
 
 **RESULTS**
